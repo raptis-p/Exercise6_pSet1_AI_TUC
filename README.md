@@ -4,7 +4,7 @@
 
 This exercise attempts to solve cryptarithmetic puzzles using CSP solvers.
 
-Currently only works with Backtracking Strategy, others will be implemented as time passes.
+Currently only works with Backtracking Strategy, others may be implemented as time passes.
 
 Main Class is named Main, for compiling and executing purposes.
 
